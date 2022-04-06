@@ -1,1 +1,37 @@
-
+body {
+  background-color: #008b8b;
+}
+h1{
+  color: coral;
+  font-size: 30px;
+  font-family: times new roman, arial, sans-serif;
+  border-top: 2px solid lightgrey;
+  border-bottom: 2px solid lightgrey;
+}
+h3{
+  color: coral;
+  font-size: 25px;
+  font-family: times new roman, arial, sans-serif;
+}
+h4, h5{
+  color: #FA8072;
+  font-size: 15px;
+  font-family: times new roman, arial, sans-serif;
+}
+h6{
+  color: #E9967A;
+  font-size: 15px;
+  font-family: times new roman, arial, sans-serif;
+}
+.exp-header{
+  border-top: 1px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
+  
+}
+p, li {
+  color: beige;
+  font-size: 15px
+  font-family: times new roman, arial, sans-serif; 
+  
+  
+}
